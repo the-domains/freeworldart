@@ -1,0 +1,14 @@
+layout_spectrum: 0.5784103
+color:
+  saturation: 0.6729323
+  lightness: 1
+  brandStrength: 0.5042965
+  brandColors:
+    - '#010101'
+    - '#FC0101'
+    - '#41434B'
+    - '#FFFFFF'
+    - '#999BA3'
+  rhythmicContrast: 0.9640172
+typography_spectrum: 0.9049408
+name: FreeWorldArt
