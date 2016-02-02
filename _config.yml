@@ -1,14 +1,29 @@
+name: FreeWorldArt
+favicon: null
 layout_spectrum: 0.5784103
+typography_spectrum: 0.9049408
+title: Free World Art
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.6729323
-  lightness: 1
-  brandStrength: 0.5042965
   brandColors:
     - '#010101'
     - '#FC0101'
     - '#41434B'
     - '#FFFFFF'
     - '#999BA3'
+  brandStrength: 0.5042965
+  lightness: 1
+  saturation: 0.6729323
   rhythmicContrast: 0.9640172
-typography_spectrum: 0.9049408
-name: FreeWorldArt
+purpose: []
