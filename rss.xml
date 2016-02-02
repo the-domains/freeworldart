@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Free World Art]]></title>
         <description><![CDATA[Free World Art]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/freeworldart/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 02 Feb 2016 05:13:42 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 02 Feb 2016 17:18:43 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/freeworldart/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Finland's 10 Best Contemporary Artists and Where to Find Them]]></title>
+            <description><![CDATA[<article><h1>Finland's 10 Best Contemporary Artists and Where to Find Them</h1><p>Helen Armitage January 27, 2016 Though perhaps more well-known for its saunas, beautiful lakes and history of producing famous designers, Finland has a thriving contemporary art scene that can't be ignored.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/957aa7e39e6547e472ad3c3f4db267cceca58fd0.jpg"></article>]]></description>
+            <link>http://theculturetrip.com/europe/finland/articles/finland-s-10-best-contemporary-artists-and-where-to-find-them/</link>
+            <guid isPermaLink="false">37839c13-01c9-41f9-81ba-661a18c6e68e</guid>
+            <pubDate>Tue, 02 Feb 2016 17:18:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3e637020-f471-4d77-b586-19af3462cb30.jpg">]]></description>
-            <link>undefined0c0296e8-503e-4613-acc6-01bc13694f7a/index.html</link>
+            <link>https://thegrid.ai/freeworldart/0c0296e8-503e-4613-acc6-01bc13694f7a/index.html</link>
             <guid isPermaLink="false">0c0296e8-503e-4613-acc6-01bc13694f7a</guid>
             <pubDate>Tue, 02 Feb 2016 05:13:34 GMT</pubDate>
         </item>
